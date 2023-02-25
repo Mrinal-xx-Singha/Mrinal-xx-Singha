@@ -1,4 +1,6 @@
-### Hi there 👋
+# *Hi there,
+
+> I AM **MRINAL SINGHA** 👋
 
 
 - 🔭 I’m currently working on  Mchat App...
