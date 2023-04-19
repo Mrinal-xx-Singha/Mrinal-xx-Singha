@@ -2,9 +2,14 @@
 
 > I AM **MRINAL SINGHA** 👋
 
+- Aspiring Front End Web Developer 
+- Efficient in React js 
+- Currently learning Problem Solving using Data Structures and Algorithms
 
+
+contact me- mrinalsingha17@gmail.com
 - 🔭 I’m currently working on  Mchat App...
-
+-
 
 
 
