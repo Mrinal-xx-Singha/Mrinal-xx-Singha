@@ -8,7 +8,7 @@
 
 
  ⚡ contact me- mrinalsingha17@gmail.com
-- 🔭 I’m currently working on  Mchat App...
+- 🔭 I’m currently working on  GymPage WebApp...
 - Feel free to contact me for work related business
 
 
