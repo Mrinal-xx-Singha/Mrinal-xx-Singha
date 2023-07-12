@@ -11,7 +11,7 @@
  ⚡ contact me- mrinalsingha17@gmail.com
 - 🔭 Completed my GymPage WebApp...
 - 🔭 I’m currently working on  ArticleSummarizer WebApp...
-- Feel free to contact me for work related business
+-  📱 Feel free to contact me for work related business
 
 
 
