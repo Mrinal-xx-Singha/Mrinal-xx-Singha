@@ -3,7 +3,8 @@
 > I AM **MRINAL SINGHA** 👋
 
 -  Aspiring Front End Web Developer 
--  📫 Efficient in React js 
+-  📫 Efficient in React js ,javascript, html, css , github, npm, material ui
+-  👉🏽 Learning react/redux and TailWind css
 - 🌱 Currently learning Problem Solving using Data Structures and Algorithms
 
 
