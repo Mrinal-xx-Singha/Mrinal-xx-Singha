@@ -3,9 +3,10 @@
 > I AM **MRINAL SINGHA** 👋
 
 -  Aspiring Front End Web Developer 
--  📫 Efficient in React js ,javascript, html, css , github, npm, material ui
--  👉🏽 Learning react/redux and TailWind css
-- 🌱 Currently learning Next.js 13
+-  📫 Efficient in ***React js*** ,***javascript***, ***html, css , github, npm, material ui***
+-  👉🏽 Learning ***react/redux***
+- 🌱 Currently learning ***Next.js 13***
+- 🌱  && ***Tailwind css*** 
 
 
  ⚡ contact me- mrinalsingha17@gmail.com
