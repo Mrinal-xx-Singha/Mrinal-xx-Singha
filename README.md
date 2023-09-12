@@ -2,7 +2,7 @@
 
 > I AM **MRINAL SINGHA** 👋
 
-
+> Personal Portfolio Website **[View](https://vermillion-lebkuchen-ac8991.netlify.app/)**
 
 
 -  Aspiring Front End Web Developer 
