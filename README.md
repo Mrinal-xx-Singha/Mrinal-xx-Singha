@@ -6,7 +6,7 @@
 
 
 -  Aspiring Front End Web Developer 
--  📫 Efficient in ***React js*** ,***javascript***, ***html, css , github, npm, material ui***
+-  📫 Efficient in ***React js*** ,***javascript***, ***html, css , github, npm,Tailwind css, material ui***
 -  👉🏽 Learning ***react/redux***
 -  👉🏽 Learning ***M_E_R_N STACK***
 - 🌱 Currently learning ***Next.js 13***
