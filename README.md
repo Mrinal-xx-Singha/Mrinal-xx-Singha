@@ -7,7 +7,7 @@ Front End Web Developer
 Hi ,I am Mrinal Singha, I am your Front end developer , my expertise are on JavaScript and React. I would love to contribute in real life project .
 
 * 🌍  I'm based in India,WestBengal
-* 🖥️  See my portfolio at [My Portfolio](http://https://mrinalspersonalportfolio.netlify.app/)
+* 🖥️  See my portfolio at [My Portfolio](https://mrinalspersonalportfolio.netlify.app/)
 * ✉️  You can contact me at [mrinalsingha17@gmail.com](mailto:mrinalsingha17@gmail.com)
 * 🧠  I'm learning React + Redux
 * 🤝  I'm open to collaborating on Projects
