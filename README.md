@@ -8,7 +8,7 @@
 -  Aspiring Front End Web Developer 
 -  📫 Efficient in ***React js*** ,***javascript***, ***html, css , github, npm,Tailwind css, material ui, Bootstrap***
 -  👉🏽 Learning ***react/redux***
--  👉🏽 Inrterested in Learning ***M_E_R_N STACK***
+-  👉🏽 Interested in Learning ***M_E_R_N STACK***
 - 🌱 Currently learning ***Next.js 13***
 - 🌱  && ***Tailwind css*** 
 
