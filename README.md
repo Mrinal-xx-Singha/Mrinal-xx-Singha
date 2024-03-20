@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mrinal Singha
 =====================================================================================================================================
 
-Front End Web Developer
+Full Stack Developer
 -----------------------
 
 Hi ,I am Mrinal Singha, I am your Front end developer , my expertise are on JavaScript and React. I would love to contribute in real life project .
