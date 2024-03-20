@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 -----------------------
 
-Hi ,I am Mrinal Singha, I am your Front end developer , my expertise are on JavaScript and React. I would love to contribute in real life project .
+Hi ,I am Mrinal Singha, I am your Full stack developer , my expertise are on JavaScript,Node,Express,React,MongoDB. I would love to contribute in real life project .
 
 * 🌍  I'm based in India,WestBengal
 * 🖥️  See my portfolio at [My Portfolio](https://mrinalspersonalportfolio.netlify.app/)
 * ✉️  You can contact me at [mrinalsingha17@gmail.com](mailto:mrinalsingha17@gmail.com)
-* 🧠  I'm learning React + Redux
+* 🧠  I'm learning  Express + Node
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I Am Batman, I am gonna Tell EveryOne
+* ⚡  I Am Batman,
 
 ### Skills
 
