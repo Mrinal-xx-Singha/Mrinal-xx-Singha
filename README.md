@@ -7,7 +7,7 @@ Full Stack Developer
 Hi ,I am Mrinal Singha, I am your Full stack developer , my expertise are on JavaScript,Node,Express,React,MongoDB. I would love to contribute in real life project .
 
 * 🌍  I'm based in India,WestBengal
-* 🖥️  See my portfolio at [My Portfolio](https://mrinalspersonalportfolio.netlify.app/)
+* 🖥️  See my portfolio at [My Portfolio](https://next-folio-bay.vercel.app/)
 * ✉️  You can contact me at [mrinalsingha17@gmail.com](mailto:mrinalsingha17@gmail.com)
 * 🧠  I'm learning  Express + Node
 * 🤝  I'm open to collaborating on Projects
