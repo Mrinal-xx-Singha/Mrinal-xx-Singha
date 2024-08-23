@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front end WebDeveloper
 -----------------------
 
-Hi ,I am Mrinal Singha, I am your Full stack developer , my expertise are on JavaScript,Node,Express,React,MongoDB. I would love to contribute in real life project .
+Hi ,I am Mrinal Singha, I am your Front end WebDeveloper , my expertise are on JavaScript,Typescript,Tailwind,Node,Express,React,MongoDB. I would love to contribute in real life project .
 
 * 🌍  I'm based in India,WestBengal
 * 🖥️  See my portfolio at [My Portfolio](https://next-folio-bay.vercel.app/)
