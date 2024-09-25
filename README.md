@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mrinal Singha
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mrinal Singha
 =====================================================================================================================================
 
- WebDeveloper
+ WebDeveloper|ReactDeveloper|FullStackDeveloper
 -----------------------
 
 Hi ,I am Mrinal Singha, I am your Front end WebDeveloper , my expertise are on JavaScript,Typescript,Tailwind,Node,Express,React,MongoDB. I would love to contribute in real life project .
@@ -9,7 +9,8 @@ Hi ,I am Mrinal Singha, I am your Front end WebDeveloper , my expertise are on J
 * 🌍  I'm based in India,WestBengal
 * 🖥️  See my portfolio at [My Portfolio](https://next-folio-bay.vercel.app/)
 * ✉️  You can contact me at [mrinalsingha17@gmail.com](mailto:mrinalsingha17@gmail.com)
-* 🧠  I'm learning  Express + Node
+* 🧠  I'm learning  Express + Node + MogoDB 
+* 🧠  Full Stack enthusiast
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I Am Batman,
 
