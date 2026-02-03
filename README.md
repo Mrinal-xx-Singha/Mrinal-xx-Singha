@@ -1,8 +1,110 @@
-# 💫 About Me:
-# 👋 Hi, I'm Mrinal Singh<br><br>🚀 **Frontend Engineer (React, Next.js) | MERN Stack Developer**  <br>🎯 Performance-focused UI • Scalable Web Applications • Clean Architecture<br><br>---<br><br>## 🧠 About Me<br><br>I'm a frontend-focused full-stack developer with strong experience building **high-performance, scalable web applications** using **React, Next.js, and the MERN stack**.<br><br>I enjoy:<br>- Designing clean, reusable UI components<br>- Optimizing performance & DX<br>- Solving real-world problems with pragmatic engineering<br><br>Currently expanding into **AI-powered web applications** and advanced frontend architecture.<br><br>---<br><br>## 🛠️ Tech Stack<br><br>### Frontend<br>- **React.js**, **Next.js (App Router)**<br>- JavaScript (ES6+), **TypeScript**<br>- HTML5, CSS3, **Tailwind CSS**<br><br>### State Management<br>- Redux<br>- React Context API<br><br>### Backend<br>- Node.js, Express.js<br>- MongoDB, PostgreSQL<br><br>### APIs & Auth<br>- REST APIs, GraphQL<br>- JWT Authentication, OAuth<br>- Third-party API integrations<br><br>### Performance & Tooling<br>- Code Splitting & Lazy Loading<br>- API Caching & Optimization<br>- Git, GitHub, Postman<br>- Vercel, Netlify, Render<br><br>---<br><br>## 💼 Experience<br><br>### **Software Development Engineering Intern**  <br>**Tool Pioneers** (Aug 2025 – Sep 2025)<br>- Built internal apps using **React & Next.js** with PostgreSQL<br>- Developed backend pipelines for **PDF generation, AWS S3 storage, and automated email reports**<br>- Created **AI-powered tools** (grade prediction, bug summaries) using Retool AI<br>- Integrated **Linear API via GraphQL**<br>- Fixed production issues involving OAuth & routing<br><br>### **Freelance Web Developer** (Dec 2024 – Jul 2025)<br>- Built and deployed full-stack MERN apps used by real users<br>- Improved page load performance by **~25%**<br>- Reduced backend response times by **~90%**<br>- Delivered production-ready apps with **99% uptime**<br><br>---<br><br>## 🚀 Projects<br><br>### 🔹 Ping Me — Real-Time Chat App<br>- MERN + Socket.IO + JWT Authentication<br>- ~40% faster real-time message delivery<br>- Scalable WebSocket architecture  <br>🔗 **Live:** _Coming Soon_ | **Code:** _Coming Soon_<br><br>---<br><br>### 🔹 Mrinal’s Journal — Blogging Platform<br>- Secure RBAC with JWT<br>- Cloudinary image uploads<br>- Fully responsive MERN stack app  <br>🔗 **Live:** _Coming Soon_ | **Code:** _Coming Soon_<br><br>---<br><br>### 🔹 Cine Verse — Movie & TV Database<br>- Handles 1,000+ daily API requests<br>- Optimized MongoDB queries (~30% faster)<br>- 99.9% uptime  <br>🔗 **Live:** _Coming Soon_ | **Code:** _Coming Soon_<br><br>---<br><br>## 📈 GitHub Stats<br><br>![Mrinal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)<br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)<br><br>---<br><br>## 📫 Connect With Me<br><br>- 💼 LinkedIn: _Add Link_<br>- 🌐 Portfolio: _Add Link_<br>- 📧 Email: _Add Email_<br><br>---<br><br>⭐ **If you like my work, consider starring my repositories!**<br>
+# 👋 Hi, I'm Mrinal Singh
+
+🚀 **Frontend Engineer (React, Next.js) | MERN Stack Developer**  
+🎯 Performance-focused UI • Scalable Web Applications • Clean Architecture
+
+---
+
+## 🧠 About Me
+
+I'm a frontend-focused full-stack developer with strong experience building **high-performance, scalable web applications** using **React, Next.js, and the MERN stack**.
+
+I enjoy:
+- Designing clean, reusable UI components
+- Optimizing performance & DX
+- Solving real-world problems with pragmatic engineering
+
+Currently expanding into **AI-powered web applications** and advanced frontend architecture.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- **React.js**, **Next.js (App Router)**
+- JavaScript (ES6+), **TypeScript**
+- HTML5, CSS3, **Tailwind CSS**
+
+### State Management
+- Redux
+- React Context API
+
+### Backend
+- Node.js, Express.js
+- MongoDB, PostgreSQL
+
+### APIs & Auth
+- REST APIs, GraphQL
+- JWT Authentication, OAuth
+- Third-party API integrations
+
+### Performance & Tooling
+- Code Splitting & Lazy Loading
+- API Caching & Optimization
+- Git, GitHub, Postman
+- Vercel, Netlify, Render
+
+---
+
+## 💼 Experience
+
+### **Software Development Engineering Intern**  
+**Tool Pioneers** (Aug 2025 – Sep 2025)
+- Built internal apps using **React & Next.js** with PostgreSQL
+- Developed backend pipelines for **PDF generation, AWS S3 storage, and automated email reports**
+- Created **AI-powered tools** (grade prediction, bug summaries) using Retool AI
+- Integrated **Linear API via GraphQL**
+- Fixed production issues involving OAuth & routing
+
+### **Freelance Web Developer** (Dec 2024 – Jul 2025)
+- Built and deployed full-stack MERN apps used by real users
+- Improved page load performance by **~25%**
+- Reduced backend response times by **~90%**
+- Delivered production-ready apps with **99% uptime**
+
+---
+
+## 🚀 Projects
+
+### 🔹 Ping Me — Real-Time Chat App
+- MERN + Socket.IO + JWT Authentication
+- ~40% faster real-time message delivery
+- Scalable WebSocket architecture  
+🔗 **Live:** _Coming Soon_ | **Code:** _Coming Soon_
+
+---
+
+### 🔹 Mrinal’s Journal — Blogging Platform
+- Secure RBAC with JWT
+- Cloudinary image uploads
+- Fully responsive MERN stack app  
+🔗 **Live:** _Coming Soon_ | **Code:** _Coming Soon_
+
+---
+
+### 🔹 Cine Verse — Movie & TV Database
+- Handles 1,000+ daily API requests
+- Optimized MongoDB queries (~30% faster)
+- 99.9% uptime  
+🔗 **Live:** _Coming Soon_ | **Code:** _Coming Soon_
+
+---
 
 
-# 💻 Tech Stack:
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: _Add Link_
+- 🌐 Portfolio: _Add Link_
+- 📧 Email: _Add Email_
+
+---
+
+⭐ **If you like my work, consider starring my repositories!**
+
+
+
+### 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mrinal-xx-Singha&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
