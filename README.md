@@ -1,25 +1,172 @@
-# 💫 About Me:
-Frontend-focused full-stack developer with strong expertise in React and Next.js, building scalable MERN applications end-to-end. I focus on performance optimization, clean architecture, and writing maintainable code that solves real-world problems.
+# Hi, I'm Mrinal Singha 👋
 
+### Full Stack Engineer | React | Next.js | TypeScript | Node.js
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrinalsingha17@gmail.com) 
+I build production-oriented web applications with a strong focus on **frontend engineering, clean architecture, performance, and reliable backend systems**.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat-square&logo=ejs&logoColor=black) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat-square&logo=daisyui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mrinal-xx-Singha&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mrinal-xx-Singha&theme=darcula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrinal-xx-Singha&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mrinal-xx-Singha&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I enjoy taking a product from idea → architecture → implementation → deployment, and working on features that solve real problems rather than just building demos.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mrinal-xx-Singha&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I Work With
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### Database & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Testing & Tools
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+# 💼 Featured Projects
+
+## FlowCRM
+
+**Customer Relationship Management Platform**
+
+A full-stack CRM built to manage **customers, jobs, sales pipelines, and reminders**.
+
+### Highlights
+- Drag-and-drop Kanban workflow
+- JWT authentication & role-based authorization
+- PostgreSQL database design
+- Automated reminder processing & email notifications
+- React Hook Form + Zod validation
+- TanStack Query for server-state management
+- Jest + Supertest integration testing
+- GitHub Actions CI
+- Separate frontend/backend production deployments
+
+**Stack:**  
+`Next.js` `React` `TypeScript` `Express.js` `PostgreSQL` `TanStack Query` `Tailwind CSS`
+
+[🌐 Live Demo](https://flow-crm-eight.vercel.app/) · [💻 Source Code](https://github.com/Mrinal-xx-Singha/FlowCRM)
+
+---
+
+## Writely
+
+**Full-Stack Publishing & Job Platform**
+
+A publishing platform that combines content management, authentication, AI-assisted writing tools, and job aggregation.
+
+### Highlights
+- Markdown-based publishing workflow
+- Search, filtering & pagination
+- Bookmarks, reactions & nested comments
+- JWT access/refresh authentication
+- Owner/admin authorization
+- Cloudinary image & resume uploads
+- **Gemini 2.5 Flash integration**
+- AI-assisted grammar correction
+- AI-generated article titles
+- AI-powered article summarization
+- **We Work Remotely job ingestion pipeline**
+- Job listing persistence and application workflow
+
+**Stack:**  
+`React` `Node.js` `Express.js` `MongoDB` `Redux Toolkit` `Cloudinary` `Gemini API`
+
+[🌐 Live Demo](https://whimsical-conkies-bb435c.netlify.app/) · [💻 Source Code](https://github.com/Mrinal-xx-Singha/Mern_Practice/tree/main/mrinals_journal)
+
+---
+
+## PingMe
+
+**Real-Time Chat Application**
+
+A real-time messaging application focused on instant communication and online user presence.
+
+### Highlights
+- Real-time messaging with Socket.IO
+- Online user presence
+- JWT authentication
+- Protected API routes
+- MongoDB message storage
+- Indexed message queries
+- Cloudinary media support
+- Zustand-based client state management
+
+**Stack:**  
+`React` `Node.js` `Express.js` `MongoDB` `Socket.IO` `Zustand`
+
+[🌐 Live Demo](https://pingme-4rb8.onrender.com/) · [💻 Source Code](https://github.com/Mrinal-xx-Singha/PingMe)
+
+---
+
+# 🧠 Engineering Interests
+
+I'm particularly interested in:
+
+- Building scalable React and Next.js applications
+- Full-stack TypeScript development
+- API and backend architecture
+- PostgreSQL and data modeling
+- Authentication & authorization
+- Application performance optimization
+- Real-time applications
+- AI-powered product features
+- Testing and reliable production systems
+- Developer tooling and clean architecture
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mrinal-xx-Singha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrinal-xx-Singha&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Mrinal-xx-Singha&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📫 Let's Connect
+
+I'm currently looking for **Full Stack / Frontend Engineering opportunities** where I can work on real products, solve engineering problems, and continue growing as a software engineer.
+
+<p align="center">
+  <a href="https://next-folio-bay.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mrinal-singha/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mrinalsingha17@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building, learning, debugging, and shipping.</i>
+</p>
